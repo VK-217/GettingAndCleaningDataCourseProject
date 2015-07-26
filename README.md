@@ -3,14 +3,14 @@
 
   1.2 Read x Train Data
 
-  1.3 Bind x Test and x Train using rbind
+  1.3 Bind x Test and x Train data using rbind
   
 ## Step 2:Extracts only the measurements on the mean and standard deviation for each measurement. 
   2.1 Read features.txt file
   
-  2.2 Extract the second columns from features dataframe and apply it to data
+  2.2 Extract the second column that has the variable names from features dataframe and apply it to data
   
-  2.3 Extract only the columns that have mean or std in the column names using greg function
+  2.3 Extract only the columns that have mean or std in the column names using grep function
   
 
 ## Step 3:Uses descriptive activity names to name the activities in the data set
