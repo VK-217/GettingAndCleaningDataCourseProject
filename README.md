@@ -1,3 +1,5 @@
+Before running the script ensure the zip file located here is downloaded and extracted to the current working directory. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 ## Step 1: Merges the training and the test sets to create one data set.
   1.1 Read x Test Data
 
