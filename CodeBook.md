@@ -22,62 +22,62 @@ M - Magnitude
 
 Column|         Variable Name             |                Definition
 ------|-----------------------------------|-------------------------------------------------------
-  3   |         "BA-AVG-X"                          Mean of the body Acceleration on the x-axis
-  4   |         "BA-AVG-Y"	                        Mean of the body Acceleration on the y-axis
-  5   |         "BA-AVG-Z"	                        Mean of the body Acceleration on the z-axis
-  6   |         "BA-SD-X"	                          Standard Deviation of the body Acceleration on the x-axis
-  7   |         "BA-SD-Y"	                          Standard Deviation of the body Acceleration on the y-axis
-  8   |         "BA-SD-Z"	                          Standard Deviation of the body Acceleration on the z-axis
-  9   |         "GA-AVG-X"	                        Mean of Gravitational Acceleration on x-axis
-  10  |         "GA-AVG-Y"	                        Mean of Gravitational Acceleration on yaxis
-  11  |         "GA-AVG-Z"	                        Mean of Gravitational Acceleration on z-axis
-  12  |         "GA-SD-X"	                          Standard Deviation of Gravitational Acceleration on x-axis
-  13  |         "GA-SD-Y"	                          Standard Deviation of Gravitational Acceleration on y-axis
-  14  |         "GA-SD-Z"	                          Standard Deviation of Gravitational Acceleration on z-axis
-  15  |         "BAJ-AVG-X"	                        Mean of Body Acceleration & Jerk on x-axis
-  16  |         "BAJ-AVG-Y"	                        Mean of Body Acceleration & Jerk on y-axis
-  17  |         "BAJ-AVG-Z"	                        Mean of Body Acceleration & Jerk on z-axis
-  18  |         "BAJ-SD-X"	                        Standard Deviation of Body Acceleration & Jerk on x-axis
-  19  |         "BAJ-SD-Y"                          Standard Deviation of Body Acceleration & Jerk on y-axis
-  20  |         "BAJ-SD-Z"                          Standard Deviation of Body Acceleration & Jerk on z-axis
-  21  |         "Bg-AVG-X"	
-  22  |         "Bg-AVG-Y"	
-  23  |         "Bg-AVG-Z"	
-  24  |         "Bg-SD-X"	
-  25  |         "Bg-SD-Y"
-  26  |         "Bg-SD-Z"	
-  27  |         "BgJ-AVG-X"
-  28  |         "BgJ-AVG-Y"	
-  29  |         "BgJ-AVG-Z"
-  30  |         "BgJ-SD-X"	
-  31  |         "BgJ-SD-Y"
-  32  |         "BgJ-SD-Z"
-  33  |         "BAM-AVG"
-  34  |         "BAM-SD"
-  35  |         "GAM-AVG"
-  36  |         "GAM-SD"	
-  37  |         "BAJM-AVG"	
-  38  |         "BAJM-SD"
-  39  |         "BgM-AVG"	
-  40  |         "BgM-SD"	
-  41  |         "BgJM-AVG"	
-  42  |         "BgJM-SD"
-  43  |         "BA-AVGFreq-X"
-  44  |         "BA-AVGFreq-Y"
-  45  |         "BA-AVGFreq-Z"
-  46  |         "BAJ-AVGFreq-X"
-  47  |         "BAJ-AVGFreq-Y"
-  48  |         "BAJ-AVGFreq-Z"
-  49  |         "Bg-AVGFreq-X"
-  50  |         "Bg-AVGFreq-Y"
-  51  |         "Bg-AVGFreq-Z"
-  52  |         "BAM-AVGFreq"
-  53  |         "BBAJM-AVG"	
-  54  |         "BBAJM-SD"
-  55  |         "BBAJM-AVGFreq"
-  56  |         "BBgM-AVG"
-  57  |         "BBgM-SD"	
-  58  |         "BBgM-AVGFreq"
-  59  |         "BBgJM-AVG"
-  60  |         "BBgJM-SD"
-  61  |         "BBgJM-AVGFreq"
+  3   |         "BA-AVG-X"                |          Mean of the body Acceleration on the x-axis
+  4   |         "BA-AVG-Y"	              |          Mean of the body Acceleration on the y-axis
+  5   |         "BA-AVG-Z"	              |          Mean of the body Acceleration on the z-axis
+  6   |         "BA-SD-X"	                |          Standard Deviation of the body Acceleration on the x-axis
+  7   |         "BA-SD-Y"	                |          Standard Deviation of the body Acceleration on the y-axis
+  8   |         "BA-SD-Z"	                |          Standard Deviation of the body Acceleration on the z-axis
+  9   |         "GA-AVG-X"	              |          Mean of Gravitational Acceleration on x-axis
+  10  |         "GA-AVG-Y"	              |          Mean of Gravitational Acceleration on yaxis
+  11  |         "GA-AVG-Z"	              |          Mean of Gravitational Acceleration on z-axis
+  12  |         "GA-SD-X"	                |          Standard Deviation of Gravitational Acceleration on x-axis
+  13  |         "GA-SD-Y"	                |          Standard Deviation of Gravitational Acceleration on y-axis
+  14  |         "GA-SD-Z"	                |          Standard Deviation of Gravitational Acceleration on z-axis
+  15  |         "BAJ-AVG-X"	              |          Mean of Body Acceleration & Jerk on x-axis
+  16  |         "BAJ-AVG-Y"	              |          Mean of Body Acceleration & Jerk on y-axis
+  17  |         "BAJ-AVG-Z"	              |          Mean of Body Acceleration & Jerk on z-axis
+  18  |         "BAJ-SD-X"	              |          Standard Deviation of Body Acceleration & Jerk on x-axis
+  19  |         "BAJ-SD-Y"                |          Standard Deviation of Body Acceleration & Jerk on y-axis
+  20  |         "BAJ-SD-Z"                |          Standard Deviation of Body Acceleration & Jerk on z-axis
+  21  |         "Bg-AVG-X"	              |          Mean of Body Gyro on x-axis
+  22  |         "Bg-AVG-Y"	              |          Mean of Body Gyro on y-axis
+  23  |         "Bg-AVG-Z"	              |          Mean of Body Gyro on z-axis
+  24  |         "Bg-SD-X"	                |          Standard Deviation of Body Gyro on x-axis
+  25  |         "Bg-SD-Y"                 |          Standard Deviation of Body Gyro on y-axis
+  26  |         "Bg-SD-Z"	                |          Standard Deviation of Body Gyro on z-axis
+  27  |         "BgJ-AVG-X"               |          Mean of Body Gyro jerk on x-axis
+  28  |         "BgJ-AVG-Y"	              |          Mean of Body Gyro jerk on y-axis
+  29  |         "BgJ-AVG-Z"               |          Mean of Body Gyro jerk on z-axis
+  30  |         "BgJ-SD-X"	              |          Standard Deviation of Body Gyro jerk on x-axis
+  31  |         "BgJ-SD-Y"                |          Standard Deviation of Body Gyro jerk on y-axis
+  32  |         "BgJ-SD-Z"                |          Standard Deviation of Body Gyro jerk on z-axis
+  33  |         "BAM-AVG"                 |          Mean of Body Acceleration Magnitude
+  34  |         "BAM-SD"                  |          Standard Deviation of Body Acceleration Magnitude
+  35  |         "GAM-AVG"                 |          Mean of Gravity Acceleration Magnitude
+  36  |         "GAM-SD"	                |          Standard Deviation of Body Acceleration Magnitude
+  37  |         "BAJM-AVG"	              |          Mean of Body Acceleration Jerk Magnitude
+  38  |         "BAJM-SD"                 |          Standard Deviation of Body Acceleration Jerk Magnitude
+  39  |         "BgM-AVG"	                |          Mean of Body Gyro Magnitude
+  40  |         "BgM-SD"	                |          Standard Deviation of Body Gyro Magnitude
+  41  |         "BgJM-AVG"	              |          Mean of Body Gyro Jerk Magnitude
+  42  |         "BgJM-SD"                 |          Standard Deviation of Body Gyro Jerk Magnitude
+  43  |         "BA-AVGFreq-X"            |          Mean Frequency of Body Acceleration on x-axis
+  44  |         "BA-AVGFreq-Y"            |          Mean Frequency of Body Acceleration on y-axis
+  45  |         "BA-AVGFreq-Z"            |          Mean Frequency of Body Acceleration on x-axis
+  46  |         "BAJ-AVGFreq-X"           |          Mean Frequency of Body Acceleration Jerk on x-axis
+  47  |         "BAJ-AVGFreq-Y"           |          Mean Frequency of Body Acceleration Jerk on y-axis
+  48  |         "BAJ-AVGFreq-Z"           |          Mean Frequency of Body Acceleration Jerk on z-axis
+  49  |         "Bg-AVGFreq-X"            |          Mean Frequency of Body Gyro on x-axis
+  50  |         "Bg-AVGFreq-Y"            |          Mean Frequency of Body Gyro on y-axis
+  51  |         "Bg-AVGFreq-Z"            |          Mean Frequency of Body Gyro on z-axis
+  52  |         "BAM-AVGFreq"             |          Mean Frequency of Body Acceleration Magnitude
+  53  |         "BBAJM-AVG"	              |          Mean of Body Body Acceleration Jerk Magnitude
+  54  |         "BBAJM-SD"                |          Standard Deviation of Body Body Acceleration Jerk Magnitude
+  55  |         "BBAJM-AVGFreq"           |          Mean Frequency of Body Body Acceleration Jerk Magnitude
+  56  |         "BBgM-AVG"                |          Mean of Body Body Gyro Magnitude
+  57  |         "BBgM-SD"	                |          Standard Deviation of Body Body Gyro Magnitude
+  58  |         "BBgM-AVGFreq"            |          Mean Frequency of Body Body Gyro Magnitude
+  59  |         "BBgJM-AVG"               |          Mean of Body Body Gyro Jerk Magnitude
+  60  |         "BBgJM-SD"                |          Standard Deviation of Body Body gyro Jerk Magnitude
+  61  |         "BBgJM-AVGFreq"           |          Mean Frequency of Body Body gyro Jerk Magnitude
