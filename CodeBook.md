@@ -1,6 +1,6 @@
 ## Describes the tidy data set create in Step 5 of the Course Project
 
-The final data set contains Avg of each variable for each Subject and each Activity performed by 30 Volunteers using Samsung phones.The first column and second columns are Subject and Activity followed by Average of each variable that either contains mean or standard deviation.
+The final data set contains Avg of each variable for each Subject and each Activity performed by 30 Volunteers using Samsung phones.The first column and second columns are Subject and Activity followed by Average of each variable that either contains mean or standard deviation of captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.
 
 Total Number of subjects 30 within an age bracket of 19-48 years
 
